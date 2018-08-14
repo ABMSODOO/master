@@ -12,7 +12,7 @@
     'currency': 'EUR',
     'license': 'OPL-1',
     'author':'ABMSODOO',
-    'images': ['images/main_1.png', 'images/main_2.png', 'description/main_screenshot.PNG'],
+    'images': ['images/main_1.png', 'images/main_2.png', 'static/description/main_screenshot.PNG'],
     'description': """
     Key Features
     ------------
