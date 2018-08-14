@@ -5,12 +5,13 @@
 #
 ##############################################################################
 {
-    'name': 'Contract Dynamic Fields',
+    'name': 'HR Contract Dynamic Fields',
     'version': '1.0',
     'category': 'HR',
     'price': 35.00,
     'currency': 'EUR',
     'license': 'OPL-1',
+    'author':'ABMSODOO',
     'images': ['images/main_1.png', 'images/main_2.png', 'images/main_screenshot.png'],
     'description': """
     Key Features
