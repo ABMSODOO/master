@@ -11,7 +11,7 @@
     'price': 35.00,
     'currency': 'EUR',
     'license': 'OPL-1',
-    'author':'ABMSODOO',
+    'author':'ODOOABMS',
     'images': ['images/main_1.png', 'images/main_2.png', 'static/description/main_screenshot.PNG'],
     'description': """
     Key Features
